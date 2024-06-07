@@ -1,4 +1,4 @@
 # college-demo
 This Is my First Git Repo
 <br>
-Author -  Ameen Akbar
+Author -  Ameen Akbar(yeldo mar college)
